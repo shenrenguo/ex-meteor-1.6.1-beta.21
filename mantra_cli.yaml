@@ -1,0 +1,8 @@
+tabSize: 2
+storybook: false
+generateComponentTests: true
+generateContainerTests: true
+modulesPath: client/modules
+snakeCaseFileNames: true
+jsxExtension: jsx
+storiesFolder: .stories
